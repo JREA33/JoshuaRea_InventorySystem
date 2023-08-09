@@ -1,0 +1,60 @@
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe.config
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.AssemblyReference.cache
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.MainScreen.resources
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.Properties.Resources.resources
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.GenerateResource.cache
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddPartScreen.resources
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddProductScreen.resources
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyPartScreen.resources
+C:\Users\josh.rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyProductScreen.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe.config
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.AssemblyReference.cache
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddPartScreen.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddProductScreen.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.MainScreen.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyPartScreen.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyProductScreen.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.Properties.Resources.resources
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.GenerateResource.cache
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\rea-3\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe.config
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.AssemblyReference.cache
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddPartScreen.resources
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddProductScreen.resources
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.MainScreen.resources
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyPartScreen.resources
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyProductScreen.resources
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.Properties.Resources.resources
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.GenerateResource.cache
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\Joshua Rea\OneDrive\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe.config
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\bin\Debug\JoshuaRea_InventorySystem.pdb
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.AssemblyReference.cache
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddPartScreen.resources
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.AddProductScreen.resources
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.MainScreen.resources
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyPartScreen.resources
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.ModifyProductScreen.resources
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.Properties.Resources.resources
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.GenerateResource.cache
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.exe
+C:\Users\Joshua Rea\OneDrive\WGU\C968_Software1_C#\JoshuaRea_InventorySystem\obj\Debug\JoshuaRea_InventorySystem.pdb
